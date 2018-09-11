@@ -8,7 +8,7 @@
     height: 100%;
     font-size: 14px;
     font-weight: normal;
-    background-color:orchid;
+    background-color:grey;
 
   }
   .background{
@@ -33,7 +33,7 @@
   font-weight: bold;
   height: 90px;
   margin: 5px;
-  float: left;
+  float:left;
   display: inline-block;
   background-color: black;
   color:white;
