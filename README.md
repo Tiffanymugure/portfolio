@@ -13,7 +13,9 @@ I used :
 * Html and Css
 ## Support and contact details
 * email amiratiffany@gmail.com
-### Lisence
+### Lisence 
+copyright (c) 2018 **Tiffany MUGURE**
+
 
 
 
